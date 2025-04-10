@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Activity 2</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Poppins", sans-serif;
+      }
+
+      body {
+        background-color: #d0ebff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+      }
+
+      .login-container {
+        background-color: #74c0fc;
+        border-radius: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        padding: 30px;
+        max-width: 300px;
+        display: flex;
+      }
+
+      .login-container h2 {
+        color: #1864ab;
+        padding-top: 7px;
+        padding-bottom: 10px;
+        font-size: 20px;
+      }
+
+      .login-container input[type="text"],
+      .login-container input[type="password"] {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        outline: none;
+      }
+
+      .login-container input[type="submit"] {
+        width: 100%;
+        padding: 10px;
+        border-radius: 5px;
+        margin-top: 15px;
+        background-color: #1971c2;
+        color: white;
+        font-size: 15px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="login-container">
+      <form action="act2.php" method="POST">
+        <h2>Email</h2>
+        <input type="text" name="email" />
+
+        <h2>Password</h2>
+        <input type="password" name="password" />
+
+        <input type="submit" />
+      </form>
+    </div>
+  </body>
+</html>
