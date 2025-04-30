@@ -2,37 +2,37 @@
 30-Day PHP Learning Plan (Based on W3Schools)
  Week 1: PHP Basics
 
-- Day 1: Introduction to PHP
+✔ Day 1: Introduction to PHP
   - Topics: What is PHP, PHP Syntax, Comments
   - Task: Write a PHP script that outputs "Hello, World!"
 
-- Day 2: Variables and Data Types**
+✔ Day 2: Variables and Data Types**
   - Topics: Variables, Data Types, var_dump()
   - Task: Create variables of different types and display their values.
 
-- Day 3: Constants and Echo/Print
+✔ Day 3: Constants and Echo/Print
   - Topics: Constants, echo vs. print
   - Task: Define constants and use echo/print to display them. 
 
-- **Day 4: Strings and String Functions**
-  - **Topics:** String Concatenation, strlen(), str_word_count(), strrev()
-  - **Task:** Manipulate strings using various string functions.
+✔ Day 4: Strings and String Functions
+  - Topics: String Concatenation, strlen(), str_word_count(), strrev()
+  - Task: Manipulate strings using various string functions.
 
-- Day 5: Numbers and Math Functions**
+✔ - Day 5: Numbers and Math Functions
   - Topics: Integer, Float, is_int(), is_float(), pi(), min(), max()
   - Task: Perform arithmetic operations and use math functions.
 
-- Day 6: Operators
+ - Day 6: Operators
   - topics: Arithmetic, Assignment, Comparison, Increment/Decrement, Logical Operators
   - Task: Create expressions using different operators. 
 
-- Day 7: If...Else Statements
+✔ - Day 7: If...Else Statements
   - Topics: if, else, elseif, switch
   - Task: Write a script that determines the grade based on a score.
 
 Week 2: Control Structures and Functions
 
-- Day 8: Loops
+✔ - Day 8: Loops
   - Topics: while, do...while, for, foreach
   - Task: Display numbers 1 to 10 using different loops. ([W3Schools](https://pt.wikipedia.org/wiki/W3Schools?utm_source=chatgpt.com))
 
