@@ -1,0 +1,127 @@
+
+30-Day PHP Learning Plan (Based on W3Schools)
+ Week 1: PHP Basics
+
+- Day 1: Introduction to PHP
+  - Topics: What is PHP, PHP Syntax, Comments
+  - Task: Write a PHP script that outputs "Hello, World!"
+
+- Day 2: Variables and Data Types**
+  - Topics: Variables, Data Types, var_dump()
+  - Task: Create variables of different types and display their values.
+
+- Day 3: Constants and Echo/Print
+  - Topics: Constants, echo vs. print
+  - Task: Define constants and use echo/print to display them. 
+
+- **Day 4: Strings and String Functions**
+  - **Topics:** String Concatenation, strlen(), str_word_count(), strrev()
+  - **Task:** Manipulate strings using various string functions.
+
+- Day 5: Numbers and Math Functions**
+  - Topics: Integer, Float, is_int(), is_float(), pi(), min(), max()
+  - Task: Perform arithmetic operations and use math functions.
+
+- Day 6: Operators
+  - topics: Arithmetic, Assignment, Comparison, Increment/Decrement, Logical Operators
+  - Task: Create expressions using different operators. 
+
+- Day 7: If...Else Statements
+  - Topics: if, else, elseif, switch
+  - Task: Write a script that determines the grade based on a score.
+
+Week 2: Control Structures and Functions
+
+- Day 8: Loops
+  - Topics: while, do...while, for, foreach
+  - Task: Display numbers 1 to 10 using different loops. ([W3Schools](https://pt.wikipedia.org/wiki/W3Schools?utm_source=chatgpt.com))
+
+- Day 9: Functions
+  - Topics: Creating Functions, Arguments, Default Parameters
+  - Task: Create a function that calculates the factorial of a number.
+
+- Day 10: Arrays
+  - Topics: Indexed Arrays, Associative Arrays, Multidimensional Arrays
+  - Task: Create and display different types of arrays.
+
+- Day 11: Array Functions
+  - Topics: count(), sort(), rsort(), array_push(), array_pop()
+  - Task: Manipulate arrays using various array functions.
+
+- Day 12: Superglobals
+  - Topics: $_GET, $_POST, $_REQUEST, $_SERVER
+  - Task: Create a form and process input using superglobals.
+
+- Day 13: Forms and User Input
+  - Topics: Form Handling, Validation, Sanitization
+  - Task:** Build a form that collects user data and validates input.
+
+- Day 14: Include and Require
+  - **Topics:** include, require, include_once, require_once
+  - **Task:** Modularize your code by including external files.
+
+ Week 3: Advanced Topics
+
+- Day 15: Date and Time
+  - Topics: date(), time(), mktime(), strtotime()
+  - Task: Display current date and time in different formats.
+
+- Day 16: File Handling
+  - Topics: fopen(), fread(), fwrite(), fclose(), file_exists()
+  - Task: Read from and write to a text file.
+
+- Day 17: File Uploads
+  - Topics: $_FILES, move_uploaded_file(), file validation
+  - Task: Create a file upload form with validation.
+
+- Day 18: Cookies
+  - Topics: setcookie(), $_COOKIE
+  - Task: Set and retrieve cookie values.
+
+- Day 19: Sessions
+  - Topics: session_start(), $_SESSION, session_destroy()
+  - Task: Implement user login using sessions.
+
+- Day 20: Filters
+  - Topics: filter_var(), filter_input(), filter_input_array()
+  - Task: Validate and sanitize user input using filters.
+
+- Day 21: Error Handling
+  - Topics: die(), error_reporting(), try...catch
+  - Task: Handle errors gracefully in your scripts.
+
+Week 4: Object-Oriented PHP and MySQL
+
+- Day 22: Classes and Objects
+  - Topics: Defining Classes, Properties, Methods
+  - Task: Create a class and instantiate objects.
+
+- Day 23: Constructors and Destructors
+  - Topics: __construct(), __destruct()
+  - Task: Implement constructors and destructors in your class.
+
+- Day 24: Inheritance
+  - Topics: Extending Classes, Overriding Methods
+  - Task: Create a subclass that inherits from a parent class. ([W3Schools](https://de.wikipedia.org/wiki/W3Schools?utm_source=chatgpt.com))
+
+- Day 25: Access Modifiers
+  - Topics: public, protected, private
+  - Task: Demonstrate the use of different access modifiers.
+
+- Day 26: MySQL Database
+  - Topics: Connecting to MySQL, Creating Databases and Tables
+  - Task: Connect to a MySQL database and create a table.
+
+- Day 27: CRUD Operations
+  - Topics: SELECT, INSERT, UPDATE, DELETE
+  - Task: Perform CRUD operations on your database.
+
+- Day 28: Prepared Statements
+  - Topics: mysqli_prepare(), bind_param(), execute()
+  - Task: Use prepared statements to prevent SQL injection.
+
+- Day 29: Final Project Planning
+  - Task: Design a simple web application (e.g., blog, contact form).
+
+- Day 30: Final Project Implementation
+  - Task: Build and test your PHP web application. 
