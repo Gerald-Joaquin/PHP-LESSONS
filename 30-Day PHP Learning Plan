@@ -1,0 +1,96 @@
+30-Day PHP Learning Plan with Daily Tasks
+
+Day 1: Introduction to PHP and setting up the environment (XAMPP, MAMP, etc.)
+Task/Challenge: Task: Install XAMPP or MAMP and write your first PHP script that outputs 'Hello,
+World!'.
+
+Day 2: Basic PHP syntax, variables, and data types
+Task/Challenge: Task: Create a script that declares variables of different data types and prints them.
+
+Day 3: Operators in PHP (Arithmetic, Assignment, Comparison, Logical)
+Task/Challenge: Task: Write a calculator script that uses all arithmetic operators.
+
+Day 4: Control structures: if, else, elseif, switch
+Task/Challenge: Task: Write a script that assigns grades based on a score using if-else and switch.
+
+Day 5: Loops: while, do-while, for, foreach
+Task/Challenge: Task: Create a script that prints the multiplication table of a number using all loop
+types.
+
+Day 6: Functions: declaration, arguments, return values
+Task/Challenge: Task: Write a function to calculate the factorial of a number.
+
+Day 7: Superglobals: $_GET, $_POST, $_REQUEST, $_SERVER
+Task/Challenge: Task: Create a form that uses $_GET and $_POST to display submitted data.
+
+Day 8: Forms and user input handling with PHP
+Task/Challenge: Task: Make a form that takes a name and age and displays a greeting.
+
+Day 9: Working with strings: concatenation, functions
+Task/Challenge: Task: Write a script to reverse a string and count the number of vowels.
+
+Day 10: Working with arrays: indexed, associative, multidimensional
+Task/Challenge: Task: Create and print a multidimensional array representing a table of students
+and grades.
+
+Day 11: Array functions: push, pop, shift, sort, etc.
+Task/Challenge: Task: Create a list of fruits and perform all major array operations.
+
+Day 12: Include and require statements
+Task/Challenge: Task: Create separate header and footer files and include them in your main file.
+
+Day 13: Introduction to error handling
+Task/Challenge: Task: Write a script with intentional errors and use error_reporting() to debug.
+
+Day 14: File handling: open, read, write, close
+Task/Challenge: Task: Write a guestbook that saves comments to a text file.
+
+Day 15: Mid-point mini project: Contact form with validation and file logging
+Task/Challenge: Challenge: Build a contact form that stores data in a file with validation.
+
+Day 16: PHP and HTML integration
+Task/Challenge: Task: Embed PHP into HTML to create a dynamic welcome page.
+
+Day 17: PHP and MySQL: Introduction and connecting to databases
+Task/Challenge: Task: Connect to a MySQL database and display data from a table.
+
+Day 18: Performing CRUD operations in MySQL with PHP
+Task/Challenge: Task: Create a simple user management system (Create, Read, Update, Delete).
+
+Day 19: Using PHPMyAdmin
+Task/Challenge: Task: Create a database and table using PHPMyAdmin.
+
+Day 20: Form validation and sanitization (filter_var, htmlspecialchars, etc.)
+Task/Challenge: Task: Create a login form that sanitizes and validates user input.
+
+Day 21: Sessions and cookies
+Task/Challenge: Task: Build a login system that uses sessions and stores user preferences with
+cookies.
+
+Day 22: User authentication basics
+Task/Challenge: Task: Implement a basic login/logout system with hashed passwords.
+
+Day 23: Object-Oriented Programming: classes and objects
+Task/Challenge: Task: Create a class for a car and instantiate multiple car objects.
+
+Day 24: OOP: inheritance, access modifiers, constructors
+Task/Challenge: Task: Extend the car class with a truck class using inheritance.
+
+Day 25: OOP: interfaces and traits
+Task/Challenge: Task: Create an interface and implement it in a class.
+
+Day 26: Working with JSON and APIs in PHP
+Task/Challenge: Task: Fetch and display JSON data from a public API.
+
+Day 27: Error and exception handling (try, catch)
+Task/Challenge: Task: Write a script that throws and catches a custom exception.
+
+Day 28: Security best practices (SQL Injection, XSS, CSRF)
+Task/Challenge: Task: Secure a form against SQL Injection and XSS.
+
+Day 29: Final project planning and setup
+Task/Challenge: Task: Design the layout and functionality of your final project.
+
+Day 30: Final project implementation and review
+Task/Challenge: Challenge: Complete and present your final PHP project (e.g., a blog or task
+manager).
