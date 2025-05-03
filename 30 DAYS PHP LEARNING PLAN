@@ -44,7 +44,7 @@ Week 2: Control Structures and Functions
   - Topics: Indexed Arrays, Associative Arrays, Multidimensional Arrays
   - Task: Create and display different types of arrays.
 
-- Day 11: Array Functions
+✔- Day 11: Array Functions
   - Topics: count(), sort(), rsort(), array_push(), array_pop()
   - Task: Manipulate arrays using various array functions.
 
@@ -57,8 +57,8 @@ Week 2: Control Structures and Functions
   - Task:** Build a form that collects user data and validates input.
 
 - Day 14: Include and Require
-  - **Topics:** include, require, include_once, require_once
-  - **Task:** Modularize your code by including external files.
+  - Topics: include, require, include_once, require_once
+  - Task: Modularize your code by including external files.
 
  Week 3: Advanced Topics
 
