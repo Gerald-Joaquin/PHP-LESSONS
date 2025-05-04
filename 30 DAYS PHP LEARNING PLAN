@@ -48,7 +48,7 @@ Week 2: Control Structures and Functions
   - Topics: count(), sort(), rsort(), array_push(), array_pop()
   - Task: Manipulate arrays using various array functions.
 
-- Day 12: Superglobals
+✔ - Day 12: Superglobals
   - Topics: $_GET, $_POST, $_REQUEST, $_SERVER
   - Task: Create a form and process input using superglobals.
 
