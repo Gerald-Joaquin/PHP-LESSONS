@@ -56,7 +56,7 @@ Week 2: Control Structures and Functions
   - Topics: Form Handling, Validation, Sanitization
   - Task:** Build a form that collects user data and validates input.
 
-- Day 14: Include and Require
+✔- Day 14: Include and Require
   - Topics: include, require, include_once, require_once
   - Task: Modularize your code by including external files.
 
