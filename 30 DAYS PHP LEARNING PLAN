@@ -52,7 +52,7 @@ Week 2: Control Structures and Functions
   - Topics: $_GET, $_POST, $_REQUEST, $_SERVER
   - Task: Create a form and process input using superglobals.
 
-- Day 13: Forms and User Input
+✔ - Day 13: Forms and User Input
   - Topics: Form Handling, Validation, Sanitization
   - Task:** Build a form that collects user data and validates input.
 
