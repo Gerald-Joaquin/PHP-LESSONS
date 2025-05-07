@@ -62,7 +62,7 @@ Week 2: Control Structures and Functions
 
  Week 3: Advanced Topics
 
-- Day 15: Date and Time
+✔ - Day 15: Date and Time
   - Topics: date(), time(), mktime(), strtotime()
   - Task: Display current date and time in different formats.
 
