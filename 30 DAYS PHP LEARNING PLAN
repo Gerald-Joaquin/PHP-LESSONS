@@ -66,7 +66,7 @@ Week 2: Control Structures and Functions
   - Topics: date(), time(), mktime(), strtotime()
   - Task: Display current date and time in different formats.
 
-- Day 16: File Handling
+✔ - Day 16: File Handling
   - Topics: fopen(), fread(), fwrite(), fclose(), file_exists()
   - Task: Read from and write to a text file.
 
