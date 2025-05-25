@@ -70,7 +70,7 @@ Week 2: Control Structures and Functions
   - Topics: fopen(), fread(), fwrite(), fclose(), file_exists()
   - Task: Read from and write to a text file.
 
-- Day 17: File Uploads
+✔ - Day 17: File Uploads
   - Topics: $_FILES, move_uploaded_file(), file validation
   - Task: Create a file upload form with validation.
 
