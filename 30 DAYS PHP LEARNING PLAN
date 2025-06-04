@@ -78,7 +78,7 @@ Week 2: Control Structures and Functions
   - Topics: setcookie(), $_COOKIE
   - Task: Set and retrieve cookie values.
 
-- Day 19: Sessions
+✔ - Day 19: Sessions
   - Topics: session_start(), $_SESSION, session_destroy()
   - Task: Implement user login using sessions.
 
